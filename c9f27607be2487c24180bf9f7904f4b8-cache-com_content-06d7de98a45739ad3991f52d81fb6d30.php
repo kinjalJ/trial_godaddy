@@ -21,7 +21,7 @@
 				Confident Governance<sup>&reg;</sup>&nbsp;&#39;s game changing Governance as a Service<sup>&trade;</sup> &nbsp;platformdriven solutions provide a comprehensive suite of scalable, flexible and secure web-based applications that allow your organization to implement a best-in-class governance, risk, compliance and corporate social responsibility program. Confident Governance<sup>&reg;</sup> &nbsp;&#39;s Solutions offer an easy to use, collaborative web-based environment that facilitates improved reporting and transparency of your critical business activities.</p>
 
 			<p>
-				<span class="yellow_hover" style="font-size:17px;"><strong class="yellow_hover">Cloud Governance<sup>&trade;</sup>and Security</strong></span></p>
+				<span class="yellow_hover" style="font-size:18px;"><strong class="yellow_hover">Cloud Governance<sup>&trade;</sup>and Security</strong></span></p>
 
 			<p>
 				Confident Governance&reg; leverages latest cutting edge industry best practices and delivers them on ConfidentG&reg; platform for effectively enabling adoption of Cloud Computing in most well governed manner. Whether implementing private, public or hybrid clouds, the shift presents new challenges across the spectrum of GRC requirements. Cloud Security Alliance&#39;s latest GRC stack and Cloud Control Audit Matrices are embedded in our Cloud Governance software for easy roll-out and adoption.</p>
