@@ -16,7 +16,7 @@
 	<div class="about_maindiv">
 		<div style="height:100%;width:98%;float:left;background-color:none;margin:0% 0% 0% 0%;padding:1% 1% 1% 1%;">
 			<h3 class="yellow_hover">
-				<span class="yellow_hover">&nbsp;</span><span class="yellow_hover" style="font-size:17px;"> About Us</span></h3>
+				<span class="yellow_hover">&nbsp;</span><span class="yellow_hover" style="font-size:1px;"> About Us</span></h3>
 
 			<p style="text-align:justify">
 				<span style="font-size: 14px; ">Confident Governance<sup>&reg;</sup><span class="apple-converted-space">&nbsp;</span>is the Enterprise Cloud Governance<sup>&trade;</sup><span class="apple-converted-space">&nbsp;</span>Company. As we explain it to our Grandparents we bring the &quot;Sunshine of Trust to the Cloud.&quot; Governance, Security, Risk and Ethical Compliance Collaboration applications that you access over the Internet and pay-as-you-go. Using our applications on our Governance as a Service<sup>&trade;</sup><span class="apple-converted-space"> &nbsp;</span>platform you can infuse transparency and trust amongst your executives and stakeholders without technical complexity and without having to worry about buying hardware and software. Find out why more than 87,200 companies have chosen our platform of choice Force.com to help run their business. <o:p></o:p></span></p>
